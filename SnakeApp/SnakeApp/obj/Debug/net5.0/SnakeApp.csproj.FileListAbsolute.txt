@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\bin\Debug\net5.0\SnakeApp.exe
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\bin\Debug\net5.0\SnakeApp.deps.json
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\bin\Debug\net5.0\SnakeApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\bin\Debug\net5.0\SnakeApp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\bin\Debug\net5.0\SnakeApp.dll
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\bin\Debug\net5.0\ref\SnakeApp.dll
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\bin\Debug\net5.0\SnakeApp.pdb
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.dll
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\ref\SnakeApp.dll
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.pdb
+C:\Users\Admin\Desktop\Ол\Обучение\Git\Snake\SnakeApp\SnakeApp\obj\Debug\net5.0\SnakeApp.genruntimeconfig.cache
